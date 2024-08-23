@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <button href='/teste'>teste</button>
     </div>
   );
 }

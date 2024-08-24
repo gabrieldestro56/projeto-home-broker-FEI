@@ -19,8 +19,8 @@ O **Home Broker** é um sistema desenvolvido como parte de um projeto de modelag
 ### Tecnologias Utilizadas
 
 - **Frontend**: React JS, CSS3
-- **Backend**: Next JS
-- **Banco de Dados**: CockroachDB
+- **Backend**: Electron JS
+- **Banco de Dados**: 
 - **Outras**: 
 
 ### Como Usar

@@ -1,5 +1,5 @@
 <h1 align="center">Projeto Modelagem de Software<a href="" target="blank">
-(Nome do Projeto)</a></h1>
+SoyTrade</a></h1>
 <h3 align="center">Home Broker</h3>
 
 [![Acesse](https://img.shields.io/badge/Clique%20e%20visite%20o%20site-8A2BE2)]()

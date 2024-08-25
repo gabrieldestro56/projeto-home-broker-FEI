@@ -1,8 +1,6 @@
 <h1 align="center">Projeto Modelagem de Software -<a href="" target="blank">
 SoyTrade</a></h1>
 
-[![Acesse](https://img.shields.io/badge/Clique%20e%20visite%20o%20site-8A2BE2)]()
-
 ![1](https://github.com/user-attachments/assets/2cc4d134-cb97-4edb-98cb-76b0a1037db5)
 
 ## 📜 Sobre o Projeto

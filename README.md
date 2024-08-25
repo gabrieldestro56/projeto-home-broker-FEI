@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Modelagem de Software<a href="" target="blank">
+<h1 align="center">Projeto Modelagem de Software -<a href="" target="blank">
 SoyTrade</a></h1>
 
 [![Acesse](https://img.shields.io/badge/Clique%20e%20visite%20o%20site-8A2BE2)]()
@@ -6,7 +6,7 @@ SoyTrade</a></h1>
 
 ## 📜 Sobre o Projeto
 
-O Home Broker da **SoyTrade** é um sistema desenvolvido como parte de um projeto de modelagem de software. Este sistema visa fornecer uma plataforma para a negociação de ações e outros ativos financeiros, permitindo aos usuários realizar operações de compra e venda com facilidade e segurança.
+O Home Broker **SoyTrade** é um sistema desenvolvido como parte de um projeto de modelagem de software. Este sistema visa fornecer uma plataforma para a negociação de ações e outros ativos financeiros, permitindo aos usuários realizar operações de compra e venda com facilidade e segurança.
 
 ### Funcionalidades
 
@@ -24,7 +24,7 @@ O Home Broker da **SoyTrade** é um sistema desenvolvido como parte de um projet
 
 ### Como Usar
 
-   O Home Broker está disponível online. Para acessar o site, visite [este link](www.google.com).
+   O Home Broker SoyTrade está disponível online. Para acessar o site, visite [este link](www.google.com).
 
 ### Colaboradores
 

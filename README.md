@@ -5,7 +5,7 @@ SoyTrade</a></h1>
 
 ## 📜 Sobre o Projeto
 
-O Home Broker **SoyTrade** é um sistema desenvolvido como parte de um projeto de modelagem de software. Este sistema visa fornecer uma plataforma para a negociação de ações e outros ativos financeiros, permitindo aos usuários realizar operações de compra e venda com facilidade e segurança.
+O Home Broker **SoyTrade** é um **protótipo** (não implementado) de sistema desenvolvido para a disciplina de modelagem de software. Este projeto visa fornecer uma plataforma para a negociação de ações e outros ativos financeiros, permitindo aos usuários realizar operações de compra e venda com facilidade e segurança.
 
 ### Funcionalidades
 
@@ -13,17 +13,6 @@ O Home Broker **SoyTrade** é um sistema desenvolvido como parte de um projeto d
 - 🔄 **Execução de Ordens**: Realize ordens de compra e venda com alta precisão.
 - 📊 **Relatórios e Análises**: Acesse relatórios detalhados e análises para auxiliar na tomada de decisões.
 - 🔒 **Segurança**: Garantia de segurança das transações e dados dos usuários.
-
-### Tecnologias Utilizadas
-
-- **Frontend**: React JS, CSS3
-- **Backend**: Electron JS
-- **Banco de Dados**: 
-- **Outras**: 
-
-### Como Usar
-
-   O Home Broker SoyTrade está disponível online. Para acessar o site, visite [este link](www.google.com).
 
 ### Colaboradores
 
